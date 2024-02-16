@@ -1,8 +1,3 @@
-# com.wayneschools:chessGame
-
-Write your project description here...
-
-Java version 21
-
-Generated at 2024-02-12 14:15:31
 # notChess
+
+This is a 2-player game of chess created in Java, but instead of pawns being able to move twice on the first move, they turn into a random piece after they move.
